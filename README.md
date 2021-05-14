@@ -1,0 +1,1 @@
+scp -r /path/to/local/dir user@remotehost:/path/to/remote/dir
