@@ -2,7 +2,7 @@ version: '3.3'
 
 services:
   nginx:
-    build: .
+    build: Dockerfile-prod
     ports:
       - "80:80"
       - "443:443"
